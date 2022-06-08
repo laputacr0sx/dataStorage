@@ -1,4 +1,4 @@
-const duty = [
+[
 	{
 		dutyNumber: 'U71101',
 		bookOnLocation: 'HUH',
@@ -6732,5 +6732,3 @@ const duty = [
 		remarks: 'NSL Secondman',
 	},
 ];
-
-export default duty;
